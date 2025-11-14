@@ -6,11 +6,18 @@ public class Demo1 {
 	{
 		System.out.println("Demo File Eclipse");
 		funA();
+		funB();
 	}
 	
 	public static void funA()
 	{
 		System.out.println("funA");
+	}
+
+	
+	public static void funB()
+	{
+		System.out.println("funB");
 	}
 
 }
